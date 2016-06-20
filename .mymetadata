@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="CartoonBack"
+  id="myeclipse.1347933941906"
+  context-root="/CartoonBack"
+  j2ee-spec="6.0"
+  archive="CartoonBack.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+
